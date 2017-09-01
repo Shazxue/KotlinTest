@@ -138,10 +138,10 @@
 			<img src="http://img.blog.csdn.net/20170901170157946?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hhel8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
 			
 		</p>
-	</div>
-	<div style="font-size:15px">
+</div>
+<div style="font-size:15px">
 		测试结果如图
-	</div>
+</div>
 </div>
 <div style="font-size:15px">
 	<img src="http://img.blog.csdn.net/20170901170238416?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hhel8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
