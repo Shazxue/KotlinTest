@@ -25,15 +25,13 @@
 	</div>
 	<div style="font-size:15px">
 		<br />
-		
-	</div>
+		</div>
 	<div style="font-size:15px">
 		从上图所示一个普通的安卓项目
 	</div>
 	<div style="font-size:15px">
 		<br />
-		
-	</div>
+		</div>
 	<div style="font-size:15px">
 		<h1 style="color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;">
 			<span style="font-size:2.13em; font-weight:100">将java文件转换为kt文件</span>
@@ -47,15 +45,14 @@
 			</span></span>
 		</div>
 		<br />
-		
-	</div>
+		</div>
 	<div style="font-size:15px">
 		之后java文件会转换为kt文件 &nbsp;内容变化如下
 	</div>
 	<div style="font-size:15px">
 		<img src="http://img.blog.csdn.net/20170901163425111?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hhel8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
 		
-	</div>
+</div>
 	<div>
 		<p style="font-size:15px; margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;">
 			这就是一个用Kotlin语法编写的Activity类，同时IDE也弹出了一个提示，在右上角给出了一个“Configure”的操作选择，这是Kotlin Plugin提供修改Android 项目的Gradle配置文件的提示。选择后会弹出如下提示框：
@@ -81,7 +78,7 @@
 		<div style="font-size:15px">
 			<br />
 			
-		</div>
+	</div>
 		<div style="font-size:15px">
 			<p style="margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;; font-size:15px">
 				既然Kotlin的编译环境配置好了，那我们就可以开始运行程序吧。
@@ -95,7 +92,7 @@
 			<p style="margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;; font-size:15px">
 				<br />
 				
-			</p>
+		</p>
 		</div>
 		<div style="font-size:15px">
 			<img src="http://img.blog.csdn.net/20170901165945258?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hhel8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
