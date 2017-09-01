@@ -95,34 +95,33 @@
 		</div>
 		<div style="font-size:15px">
 			<img src="http://img.blog.csdn.net/20170901165945258?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hhel8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
-		</div>
-		<div style="font-size:15px">
+</div>
+<div style="font-size:15px">
 			接下来编写MainActivity中的代码
-		</div>
-		<div style="font-size:15px">
-			<br />
-			
-		</div>
-		<div style="font-size:15px">
-			<img src="http://img.blog.csdn.net/20170901170020839?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hhel8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
-			</div>
-		<div style="font-size:15px">
-			<p style="margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;; font-size:15px">
-			</p>
-			<h2 id="函数扩展" style="margin:0.8em 0px; padding:0px; font-weight:100; line-height:1.3em; font-size:2.13em; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;">
+</div>
+<div style="font-size:15px">
+<br />
+</div>
+<div style="font-size:15px">
+<img src="http://img.blog.csdn.net/20170901170020839?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hhel8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
+	</div>
+<div style="font-size:15px">
+	<p style="margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;; font-size:15px">
+	</p>
+	<h2 id="函数扩展" style="margin:0.8em 0px; padding:0px; font-weight:100; line-height:1.3em; font-size:2.13em; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;">
 				函数扩展
-			</h2>
-			<p>
-			</p>
-			<p style="margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;; font-size:15px">
+	</h2>
+	<p>
+	</p>
+	<p style="margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;; font-size:15px">
 				函数扩展可以让你对任意类进行扩展，而不用继承等等复杂的操作。&nbsp;<br style="" />
 				举个栗子！拿Toast来说，到处都可以用到，我们新建个kt文件，叫做ext&nbsp;<br style="" />
 				里面写上如下代码：
-			</p>
-			<p style="margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;; font-size:15px">
-				<img src="http://img.blog.csdn.net/20170901170056911?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hhel8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
-			</p>
-		</div>
+	</p>
+	<p style="margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;; font-size:15px">
+	<img src="http://img.blog.csdn.net/20170901170056911?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2hhel8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" /><br />
+	</p>
+	</div>
 		<p style="margin-top:0px; margin-bottom:1.1em; padding-top:0px; padding-bottom:0px; color:rgb(63,63,63); font-family:&quot;microsoft yahei&quot;; font-size:15px">
 			加了这句话，就可以在所有Context类型中使用toast这个函数了。
 		</p>
